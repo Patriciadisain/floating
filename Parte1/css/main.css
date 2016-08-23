@@ -1,0 +1,21 @@
+.contenedor{
+	border: 0.5px solid black;
+	display: block;
+	width: 44%;
+}
+
+.box{
+	width: 25%;
+	height: 100px;
+}
+
+.yellow{
+	background-color: #FFED23;
+}
+
+.blue{
+	background-color: #6680E2;
+}
+.pink{
+	background-color: #EA3280;
+}
